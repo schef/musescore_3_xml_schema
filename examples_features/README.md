@@ -7,40 +7,40 @@ coverage and test behavior independently.
 ## Contents
 
 - articulations
-  - `simplify_staccato_9-8.mscx`
+  - `articulations-staccato-9-8.mscx`
 - basics
-  - `My_First_Score.mscx`
+  - `basics-first-score.mscx`
 - beams
-  - `beams-1.mscx`
+  - `beams-basic.mscx`
 - clefs
-  - `clef-2.mscx`
+  - `clefs-change.mscx`
 - dynamics
-  - `dynamic.gpx-ref.mscx`
+  - `dynamics-basic.mscx`
 - guitar
-  - `fret-diagram_2instruments.gpx-ref.mscx`
-  - `legato-slide.gpx-ref.mscx`
-  - `palm-mute.gp5-ref.mscx`
-  - `slide-in-above.gpx-ref.mscx`
-  - `vibrato.gpx-ref.mscx`
+  - `guitar-fret-diagram-two-instruments.mscx`
+  - `guitar-legato-slide.mscx`
+  - `guitar-palm-mute.mscx`
+  - `guitar-slide-in-above.mscx`
+  - `guitar-vibrato.mscx`
 - harmony
-  - `harmony.mscx`
+  - `harmony-basic.mscx`
 - keysigs
-  - `keysig_78216.mscx`
+  - `keysigs-change.mscx`
 - layout
-  - `album_105716-measure-pagebreak.mscx`
+  - `layout-measure-pagebreak.mscx`
 - lyrics
-  - `lyricsline03.mscx`
+  - `lyrics-basic-line.mscx`
 - notes
-  - `note_input_quarter.mscx`
+  - `notes-quarter-input.mscx`
 - repeats
-  - `repeat17.mscx`
+  - `repeats-basic.mscx`
 - rests
-  - `mmrest-ref.mscx`
+  - `rests-multimeasure.mscx`
 - slurs
-  - `exchangevoices-slurs.mscx`
+  - `slurs-exchange-voices.mscx`
 - staff_text
-  - `copypastesymbollist-stafftext.mscx`
+  - `staff-text-symbol-list.mscx`
 - tempo
-  - `tempo.gp5-ref.mscx`
+  - `tempo-basic.mscx`
 - tuplets
-  - `tuplet_triplet.mscx`
+  - `tuplets-triplet.mscx`

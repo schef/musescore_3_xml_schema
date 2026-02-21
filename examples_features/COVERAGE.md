@@ -1149,7 +1149,7 @@ Counts are distinct XML element names observed in each group.
 
 ## Per file
 
-- articulations/simplify_staccato_9-8.mscx: 45
+- articulations/articulations-staccato-9-8.mscx: 45
   elements:
   - Articulation
   - Channel
@@ -1196,7 +1196,7 @@ Counts are distinct XML element names observed in each group.
   - veloType
   - velocity
   - voice
-- basics/My_First_Score.mscx: 56
+- basics/basics-first-score.mscx: 56
   elements:
   - Articulation
   - Channel
@@ -1254,7 +1254,7 @@ Counts are distinct XML element names observed in each group.
   - useStandardNoteNames
   - velocity
   - voice
-- beams/beams-1.mscx: 67
+- beams/beams-basic.mscx: 67
   elements:
   - Articulation
   - BarLine
@@ -1323,7 +1323,7 @@ Counts are distinct XML element names observed in each group.
   - trackName
   - transposingClefType
   - velocity
-- clefs/clef-2.mscx: 52
+- clefs/clefs-change.mscx: 52
   elements:
   - Articulation
   - Channel
@@ -1377,7 +1377,7 @@ Counts are distinct XML element names observed in each group.
   - transposingClefType
   - velocity
   - voice
-- dynamics/dynamic.gpx-ref.mscx: 89
+- dynamics/dynamics-basic.mscx: 89
   elements:
   - ArpeggioHiddenInStdIfTab
   - Articulation
@@ -1468,7 +1468,7 @@ Counts are distinct XML element names observed in each group.
   - useNumbers
   - velocity
   - voice
-- guitar/fret-diagram_2instruments.gpx-ref.mscx: 91
+- guitar/guitar-fret-diagram-two-instruments.mscx: 91
   elements:
   - Articulation
   - Channel
@@ -1561,7 +1561,7 @@ Counts are distinct XML element names observed in each group.
   - upsideDown
   - useNumbers
   - velocity
-- guitar/legato-slide.gpx-ref.mscx: 92
+- guitar/guitar-legato-slide.mscx: 92
   elements:
   - Articulation
   - Channel
@@ -1655,7 +1655,7 @@ Counts are distinct XML element names observed in each group.
   - upsideDown
   - useNumbers
   - velocity
-- guitar/palm-mute.gp5-ref.mscx: 80
+- guitar/guitar-palm-mute.mscx: 80
   elements:
   - ArpeggioHiddenInStdIfTab
   - Channel
@@ -1737,7 +1737,7 @@ Counts are distinct XML element names observed in each group.
   - useNumbers
   - velocity
   - voice
-- guitar/slide-in-above.gpx-ref.mscx: 89
+- guitar/guitar-slide-in-above.mscx: 89
   elements:
   - Articulation
   - Channel
@@ -1828,7 +1828,7 @@ Counts are distinct XML element names observed in each group.
   - upsideDown
   - useNumbers
   - velocity
-- guitar/vibrato.gpx-ref.mscx: 95
+- guitar/guitar-vibrato.mscx: 95
   elements:
   - ArpeggioHiddenInStdIfTab
   - Articulation
@@ -1925,7 +1925,7 @@ Counts are distinct XML element names observed in each group.
   - useNumbers
   - velocity
   - voice
-- harmony/harmony.mscx: 102
+- harmony/harmony-basic.mscx: 102
   elements:
   - Channel
   - Division
@@ -2029,7 +2029,7 @@ Counts are distinct XML element names observed in each group.
   - xoffset
   - yoff
   - yoffset
-- keysigs/keysig_78216.mscx: 50
+- keysigs/keysigs-change.mscx: 50
   elements:
   - Articulation
   - Channel
@@ -2081,7 +2081,7 @@ Counts are distinct XML element names observed in each group.
   - velocity
   - voice
   - width
-- layout/album_105716-measure-pagebreak.mscx: 49
+- layout/layout-measure-pagebreak.mscx: 49
   elements:
   - Articulation
   - Channel
@@ -2132,7 +2132,7 @@ Counts are distinct XML element names observed in each group.
   - trackName
   - velocity
   - voice
-- lyrics/lyricsline03.mscx: 46
+- lyrics/lyrics-basic-line.mscx: 46
   elements:
   - Articulation
   - Channel
@@ -2180,7 +2180,7 @@ Counts are distinct XML element names observed in each group.
   - trackName
   - velocity
   - voice
-- notes/note_input_quarter.mscx: 55
+- notes/notes-quarter-input.mscx: 55
   elements:
   - Articulation
   - Channel
@@ -2237,7 +2237,7 @@ Counts are distinct XML element names observed in each group.
   - trackName
   - velocity
   - voice
-- repeats/repeat17.mscx: 85
+- repeats/repeats-basic.mscx: 85
   elements:
   - Articulation
   - BarLine
@@ -2324,7 +2324,7 @@ Counts are distinct XML element names observed in each group.
   - trackName
   - velocity
   - voice
-- rests/mmrest-ref.mscx: 71
+- rests/rests-multimeasure.mscx: 71
   elements:
   - Articulation
   - Channel
@@ -2397,7 +2397,7 @@ Counts are distinct XML element names observed in each group.
   - trackName
   - velocity
   - voice
-- slurs/exchangevoices-slurs.mscx: 57
+- slurs/slurs-exchange-voices.mscx: 57
   elements:
   - Articulation
   - BarLine
@@ -2456,7 +2456,7 @@ Counts are distinct XML element names observed in each group.
   - velocity
   - voice
   - voices
-- staff_text/copypastesymbollist-stafftext.mscx: 46
+- staff_text/staff-text-symbol-list.mscx: 46
   elements:
   - Articulation
   - Beam
@@ -2504,7 +2504,7 @@ Counts are distinct XML element names observed in each group.
   - transposingClefType
   - velocity
   - voice
-- tempo/tempo.gp5-ref.mscx: 76
+- tempo/tempo-basic.mscx: 76
   elements:
   - Accidental
   - ArpeggioHiddenInStdIfTab
@@ -2582,7 +2582,7 @@ Counts are distinct XML element names observed in each group.
   - upsideDown
   - useNumbers
   - voice
-- tuplets/tuplet_triplet.mscx: 47
+- tuplets/tuplets-triplet.mscx: 47
   elements:
   - Articulation
   - Channel
